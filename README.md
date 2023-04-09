@@ -2,7 +2,7 @@
 
 Repositório simples para armazenar as atividades e alguns materiais usados nos encontros do básico do Pyladies Bioinformática.
 
-##Bibliografia:
+## Bibliografias:
 
 1. [Python for biologists: Tutorial Python para Bioinfo - Inglês](https://pythonforbiologists.com/introduction)
 2. [Documentação Oficial Python - Português](https://docs.python.org/pt-br/3/tutorial/)
